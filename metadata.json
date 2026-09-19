@@ -1,0 +1,6 @@
+{
+  "name": "Q-TRAFFIC: Quantum Urban Traffic Optimization",
+  "description": "Quantum-Enhanced Adaptive Urban Traffic Optimization & Emergency Green Corridor Platform using QUBO formulation and QAOA simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
